@@ -1,0 +1,6 @@
+{
+  "name": "SBP PolicyPulse - Pakistan Fiscal & Monetary Observatory",
+  "description": "Comprehensive State Bank of Pakistan (SBP) monetary and fiscal policy platform tracking policy rates, MPC decision rationales, CPI inflation dynamics, and macroeconomic forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
